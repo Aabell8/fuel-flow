@@ -1,0 +1,6 @@
+[submodule "fuel-flow-frontend"]
+	path = fuel-flow-frontend
+	url = https://github.com/Aabell8/fuel-flow-frontend.git
+[submodule "fuel-flow-backend"]
+	path = fuel-flow-backend
+	url = https://github.com/Aabell8/fuel-flow-backend.git
